@@ -1,0 +1,16 @@
+{
+  "name": "Sadhana Tracker: Meditation",
+  "short_name": "Sadhana Tracker",
+  "description": "A private meditation-discipline tracker for Android.",
+  "start_url": "./",
+  "display": "browser",
+  "background_color": "#f8f1e5",
+  "theme_color": "#f8f1e5",
+  "icons": [
+    {
+      "src": "assets/app-icon.webp",
+      "sizes": "512x512",
+      "type": "image/webp"
+    }
+  ]
+}
