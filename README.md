@@ -1,6 +1,6 @@
-# Sadhana Tracker landing page
+# Meditation Tracker: Sadhana landing page
 
-Static, GitHub Pages-ready promotional website for **Sadhana Tracker: Meditation**.
+Static, GitHub Pages-ready promotional website for Meditation Tracker: Sadhana — a private daily meditation timer and practice tracker for Android.
 
 ## What is included
 
